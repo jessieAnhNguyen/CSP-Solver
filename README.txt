@@ -32,6 +32,9 @@ III/ Folders and files included:
 6. Solutions: contains the solution for each problem 
 7. Variables: define how variables in each problem is represented.
 
+IV/ CSP Solver explained:
+I used backtracking search (link to read in Wikipedia: https://en.wikipedia.org/wiki/Backtracking), and AC-3 algorithm (link to read in Wikipedia: https://en.wikipedia.org/wiki/AC-3_algorithm) as an approach to solve CSP.
+More information on how I solve the problem, read the image: "CSP Explained.jpg" in the same directory.
 
 
 
