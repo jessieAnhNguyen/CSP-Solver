@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1665ff47-1c3b-47a6-8d60-4d99ca31b8d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arc/AusMapArc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arc/JobShopArc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arc/MackworthArc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arc/Problem4Arc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arc/nQueensArc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BacktrackingSearch/AustraliaMapSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BacktrackingSearch/BacktrackSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BacktrackingSearch/JobShopSchedulingSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BacktrackingSearch/MackworthSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BacktrackingSearch/Problem4Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BacktrackingSearch/nQueenSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSP/AusMapColorCSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSP/CSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSP/JobShopCSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSP/MackworthCSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSP/Problem4CSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSP/nQueensCSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constraint/AusMapColorConstraints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constraint/Constraints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constraint/JobShopConstraints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constraint/MackworthConstraint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constraint/Problem4Constraints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constraint/nQueensConstraints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/AusMapColorSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/JobShopSchedulingSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/MackworthSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/Problem4Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/nQueenSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables/AusMapColorVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables/JobShopVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables/MackworthVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables/Problem4Var.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables/nQueensVar.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectId" id="1bvTgS3B3MyNfxKPf8l6UELbXqC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1665ff47-1c3b-47a6-8d60-4d99ca31b8d2" name="Default Changelist" comment="" />
+      <created>1589511679089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589511679089</updated>
+      <workItem from="1589511681591" duration="181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
