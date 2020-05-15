@@ -12,10 +12,15 @@ This Project builds a general engine to solve different Constraint Satisfaction 
 
 The problems used for the testing are described below:
 Citation: Russell & Norvig, Artificial Intelligence: A Modern Approach, 3rd ed.
+
 1. Australia Map Coloring: We are looking at a map of Australia showing each of its states and territories. Image:  We are given the task of coloring each region either red, green, or blue in such a way that no neighboring regions have the same color.
+
 2. Job Shop Scheduling Problem: Factories have the problem of scheduling a day’s worth of jobs, subject to various constraints.Consider the problem of scheduling the assembly of a car. The whole job is composed of tasks, and we can model each task as a variable, where the value of each variable is the time that the task starts, expressed as an integer number of minutes. Constraints can assert that one task must occur before another—for example, a wheel must be installed before the hubcap is put on—and that only so many tasks can go on at once. Constraints can also specify that a task takes a certain amount of time to complete.
+
 3. n-Queens Problem: The goal of the n-Queens problem is to place n number of Queens on a chessboard such that no queen attacks any other. (A queen attacks any piece in the same row, column or diagonal.)
+
 4. Problem 2: Y = X^2, solve this using AC-3 algorithm
+
 5. Mackworth (1977) Problem: There are five variables, X1, X2, X3, X4, X5. The domains of D1 and D2 are {a, b, c} and the domains of D3, D4, D5 are {a, b}. The constraints are that X1 < X3, X2 < X3, X4 < X3, X5 < X3, and X4 < X5, where “<” means lexicographic (alphabetical) ordering. Detect that this problem is inconsistent.
 
 III/ Folders and files included:
