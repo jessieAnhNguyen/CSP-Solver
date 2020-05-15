@@ -13,7 +13,7 @@ This Project builds a general engine to solve different Constraint Satisfaction 
 The problems used for the testing are described below:
 Citation: Russell & Norvig, Artificial Intelligence: A Modern Approach, 3rd ed.
 
-1. Australia Map Coloring: We are looking at a map of Australia showing each of its states and territories. Image:  We are given the task of coloring each region either red, green, or blue in such a way that no neighboring regions have the same color.
+1. Australia Map Coloring: We are looking at a map of Australia showing each of its states and territories. Image: Australia Map.png. We are given the task of coloring each region either red, green, or blue in such a way that no neighboring regions have the same color.
 
 2. Job Shop Scheduling Problem: Factories have the problem of scheduling a day’s worth of jobs, subject to various constraints.Consider the problem of scheduling the assembly of a car. The whole job is composed of tasks, and we can model each task as a variable, where the value of each variable is the time that the task starts, expressed as an integer number of minutes. Constraints can assert that one task must occur before another—for example, a wheel must be installed before the hubcap is put on—and that only so many tasks can go on at once. Constraints can also specify that a task takes a certain amount of time to complete.
 
