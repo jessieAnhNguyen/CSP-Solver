@@ -41,7 +41,7 @@ public class Problem4Solution {
     //print out the solution for Australia Map Problem
     static void printProblem4Solution(HashMap<Problem4Var, Problem4Value> problem4assignment, Problem4CSP Problem4CSP) {
         System.out.println();
-        System.out.print("The solution is: ");
+        System.out.print("A solution is: ");
         System.out.print("{");
 
         System.out.print(Problem4CSP.variables.get(0).name + " : " + problem4assignment.get(Problem4CSP.variables.get(0)).integer);
