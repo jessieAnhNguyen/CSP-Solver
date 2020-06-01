@@ -8,7 +8,7 @@
 3. Testing intruction: Press 1,2,3,4,5 to see the problem statement as well as the solution to each problem. If you wish to try another problem, press y. Else press n. 
 
 ## II/ Contraint Satisfaction Problems description:
-This Project builds a general engine to solve different Constraint Satisfaction Problems. Read more about CSP in this Wikipedia link: https://en.wikipedia.org/wiki/Constraint_satisfaction 
+This Project builds a general engine to solve different Constraint Satisfaction Problems. Read more about CSP in this Wikipedia link: [Constraint Satisfaction Problems](https://en.wikipedia.org/wiki/Constraint_satisfaction)
 
 The problems used for the testing are described below:
 Citation: Russell & Norvig, Artificial Intelligence: A Modern Approach, 3rd ed.
@@ -32,8 +32,8 @@ Citation: Russell & Norvig, Artificial Intelligence: A Modern Approach, 3rd ed.
 6. Solutions: contains the solution for each problem 
 7. Variables: define how variables in each problem is represented.
 
-IV/ CSP Solver explained:
-I used backtracking search (link to read in Wikipedia: https://en.wikipedia.org/wiki/Backtracking), and AC-3 algorithm (link to read in Wikipedia: https://en.wikipedia.org/wiki/AC-3_algorithm) as an approach to solve CSP.
+## IV/ CSP Solver explained:
+I used backtracking search (link to read in Wikipedia: [Back Tracking Search](https://en.wikipedia.org/wiki/Backtracking), and AC-3 algorithm (link to read in Wikipedia: [AC-3 Algorithm](https://en.wikipedia.org/wiki/AC-3_algorithm) as an approach to solve CSP.
 More information on how I solve the problem, read the image: "CSP Explained.jpg" in the same directory.
 
 
