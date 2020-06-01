@@ -14,11 +14,12 @@ The problems used for the testing are described below:
 Citation: Russell & Norvig, Artificial Intelligence: A Modern Approach, 3rd ed.
 
 1. Australia Map Coloring: We are looking at a map of Australia showing each of its states and territories. Image: Australia Map.png. We are given the task of coloring each region either red, green, or blue in such a way that no neighboring regions have the same color.
-![Australian Map Problem](Australian Map.png)
+![Australian Map Problem](https://media.cheggcdn.com/study/c82/c82fd142-abed-4624-8259-65c3832e0b24/7445-6-1EEI1.png)
 
 2. Job Shop Scheduling Problem: Factories have the problem of scheduling a day’s worth of jobs, subject to various constraints.Consider the problem of scheduling the assembly of a car. The whole job is composed of tasks, and we can model each task as a variable, where the value of each variable is the time that the task starts, expressed as an integer number of minutes. Constraints can assert that one task must occur before another—for example, a wheel must be installed before the hubcap is put on—and that only so many tasks can go on at once. Constraints can also specify that a task takes a certain amount of time to complete.
 
 3. n-Queens Problem: The goal of the n-Queens problem is to place n number of Queens on a chessboard such that no queen attacks any other. (A queen attacks any piece in the same row, column or diagonal.)
+![N Queens Problem](https://miro.medium.com/max/878/1*419mKEAl_KQej239rT72eg.png)
 
 4. Problem 2: Y = X^2, solve this using AC-3 algorithm
 
