@@ -1,13 +1,13 @@
-Collaborators: Anh Nguyen, Phuong Vu
+### Collaborators: Anh Nguyen, Phuong Vu
 
-Project - Constraint Satisfaction Problems (CSP)
+# Project - Constraint Satisfaction Problems (CSP)
 
-I/ How to run the project:
+## I/ How to run the project:
 1. Compiling instruction: assume you're in the directory of "src", compile: javac *.java
 2. Running instruction: java Main
 3. Testing intruction: Press 1,2,3,4,5 to see the problem statement as well as the solution to each problem. If you wish to try another problem, press y. Else press n. 
 
-II/ Contraint Satisfaction Problems description:
+## II/ Contraint Satisfaction Problems description:
 This Project builds a general engine to solve different Constraint Satisfaction Problems. Read more about CSP in this Wikipedia link: https://en.wikipedia.org/wiki/Constraint_satisfaction 
 
 The problems used for the testing are described below:
@@ -23,7 +23,7 @@ Citation: Russell & Norvig, Artificial Intelligence: A Modern Approach, 3rd ed.
 
 5. Mackworth (1977) Problem: There are five variables, X1, X2, X3, X4, X5. The domains of D1 and D2 are {a, b, c} and the domains of D3, D4, D5 are {a, b}. The constraints are that X1 < X3, X2 < X3, X4 < X3, X5 < X3, and X4 < X5, where “<” means lexicographic (alphabetical) ordering. Detect that this problem is inconsistent.
 
-III/ Folders and files included:
+## III/ Folders and files included:
 1. Arc: each problem has its own implementation of arc - this is used for implementing the AC-3 algorithm.
 2. Backtracking Search: contains the abstract implementation of backtrack search and AC-3 algorithm. This is the engine to solve every CSP. We have abstract AC-3 method but do specific implementation (albeit not too different in essence) for each problem.
 3. Constraint: each problem has its own type of constraint defined
