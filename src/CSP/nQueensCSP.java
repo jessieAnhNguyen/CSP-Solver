@@ -64,6 +64,7 @@ public class nQueensCSP extends CSP<nQueensVar,nQueensValue,nQueensConstraints> 
             System.out.print("," + i);
         }
         System.out.println("}");
+        System.out.println();
         System.out.print("There are " + this.constraints.size() + " constraints");
         if (constraints.size() > 0) {
             System.out.print(":{");
