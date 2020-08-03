@@ -37,8 +37,6 @@ Citation: Russell & Norvig, Artificial Intelligence: A Modern Approach, 3rd ed.
 
 ## IV/ CSP Solver explained:
 I used backtracking search (link to read in Wikipedia: [Back Tracking Search](https://en.wikipedia.org/wiki/Backtracking), and AC-3 algorithm (link to read in Wikipedia: [AC-3 Algorithm](https://en.wikipedia.org/wiki/AC-3_algorithm) as an approach to solve CSP.
-More information on how I solve the problem, read the image: "CSP Explained.jpg" in the same directory.
-
 
 
 
